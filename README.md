@@ -1,0 +1,2 @@
+# default
+PDF files storage
